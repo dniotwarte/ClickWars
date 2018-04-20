@@ -1,5 +1,6 @@
  void setup(){
   textAlign(CENTER,CENTER);
+  orientation(LANDSCAPE);
   //size(1000, 600);
 }
 
