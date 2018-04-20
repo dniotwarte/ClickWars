@@ -1,7 +1,5 @@
-void setup(){
-  textSize(200);
+ void setup(){
   textAlign(CENTER,CENTER);
-  size(1000, 600);
 }
 
 int score = 0;
